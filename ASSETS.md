@@ -2,7 +2,7 @@
 
 This collection does not call assets “copyright-free.” Original code and generated images can also carry rights. The goal is to avoid redistributing unexplained third-party media and to make provenance explicit.
 
-- **Unwallet v1 and v2:** existing assets are retained unchanged at the owner's explicit request. This includes token/protocol marks, partner graphics and the local Departure Mono font. The upstream Departure Mono MIT notice is included with each font. The root code license does not grant rights to third-party brands or artwork.
+- **Unwallet v1 and v2:** existing assets are retained unchanged at the owner's explicit request. This includes token/protocol marks, partner graphics and the bundled font files. Departure Mono has its MIT notice included. The retained `PPPangaia-Medium.ttf` has not been rights-cleared by this audit and is part of the explicit Unwallet exception. The upstream Departure Mono MIT notice is included with each font. The root code license does not grant rights to third-party brands or artwork.
 - **Exequatur:** unexplained abstract JPGs are replaced with a newly generated image. The procedural WebGL orb code remains. The generation prompt is in artwork/provenance.json.
 - **Bidnox:** copied raster screenshots and thumbnails are replaced with original procedural sample art. Original product screenshots are not bundled in this reusable edition.
 - **Shoal:** illustrations, team photos and external protocol graphics are replaced with procedural sample art and neutral labels.
@@ -18,3 +18,5 @@ The Exequatur and Piker images were generated with OpenAI's built-in image tool 
 The deterministic SVG sample art is authored by this collection's replacement script. `asset-replacements.json` lists all affected paths. Do not run the replacement script in an original product repository.
 
 Portfolio films are separate showcase media, not a redistributable stock-video/music library; they are not bundled here.
+
+The newly authored procedural artwork and the newly generated files in `artwork/` are offered under the repository’s MIT license to the extent of the owner’s rights. This does not extend to retained Unwallet assets, third-party marks, or the original products’ branding.

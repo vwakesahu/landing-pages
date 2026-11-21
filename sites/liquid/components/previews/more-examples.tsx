@@ -53,7 +53,7 @@ const reduced = () => window.matchMedia("(prefers-reduced-motion: reduce)").matc
 
 /* Tab bar ----------------------------------------------------------------- */
 
-// Photos from Unsplash via Lorem Picsum, saved locally; photographers are on the credits page.
+// Original procedural sample art replaces the original project’s Unsplash photos in this collection.
 type Tag = "Coast" | "Mountains" | "City" | "Food" | "Animals" | "Night";
 const PHOTOS: Array<{ id: string; tag: Tag }> = [
   { id: "1015", tag: "Coast" }, { id: "1043", tag: "Mountains" }, { id: "57", tag: "City" },
@@ -64,15 +64,6 @@ const PHOTOS: Array<{ id: string; tag: Tag }> = [
   { id: "43", tag: "Night" }, { id: "1084", tag: "Animals" }, { id: "37", tag: "Coast" },
   { id: "49", tag: "City" }, { id: "11", tag: "Mountains" }, { id: "1053", tag: "Coast" },
 ];
-const BY: Record<string, [string, string]> = {
-  "1015": ["Alexey Topolyanskiy", "-oWyJoSqBRM"], "1050": ["Joseph Barrientos", "xcC5ozHk_N8"], "1053": ["Anna Popović", "x7HJdJZqplo"],
-  "13": ["Paul Jarvis", "3MtiSMdnoCo"], "16": ["Paul Jarvis", "gkT4FfgHO5o"], "37": ["Austin Neill", "erTjj730fMk"],
-  "49": ["Margaret Barley", "Qo51KwK1dKg"], "1018": ["Andrew Ridley", "Kt5hRENuotI"], "1036": ["Wolfgang Lutz", "yOujaSETXlo"],
-  "1043": ["Christian Joudrey", "mWRR1xj95hg"], "11": ["Paul Jarvis", "Cm7oKel-X2Q"], "29": ["Go Wild", "V0yAek6BgGk"],
-  "1047": ["sergee bee", "bIQiMWxX_WU"], "1067": ["Kevin Young", "-icmOdYWXuQ"], "43": ["Oleg Chursin", "IoCWq07GaG4"],
-  "57": ["Nicholas Swanson", "SyBYM8R6VU4"], "1080": ["veeterzy", "OJJIaFZOeX4"], "1060": ["Karl Fredrickson", "TYIzeCiZ_60"],
-  "1069": ["Marat Gilyadzinov", "wpTWYBll4_w"], "1084": ["Jay Ruzesky", "h13Y8vyIXNU"], "1022": ["Vashishtha Jogi", "bClr95glx6k"],
-};
 const photo = (id: string) => `/photos/${id}.webp`;
 const fullPhoto = (id: string) => `/photos/full/${id}.webp`;
 const tagOf = (id: string) => PHOTOS.find((entry) => entry.id === id)?.tag ?? "Photo";
@@ -89,7 +80,7 @@ function PhotoGrid({ ids, onOpen }: { ids: string[]; onOpen: (viewing: Viewing) 
   return (
     <div className="tabbar-demo__grid">
       {ids.map((id, index) => (
-        <button key={id} type="button" aria-label={`Open ${tagOf(id).toLowerCase()} photo by ${BY[id]?.[0]}`} onClick={() => onOpen({ ids, index })}>
+        <button key={id} type="button" aria-label={`Open ${tagOf(id).toLowerCase()} sample artwork`} onClick={() => onOpen({ ids, index })}>
           <img src={photo(id)} alt="" width={200} height={200} loading="lazy" />
         </button>
       ))}
@@ -107,14 +98,13 @@ function PhotoViewer({ viewing, favourite, onFavourite, onMove, onClose }: {
 }) {
   const root = useRef<HTMLDivElement>(null);
   const id = viewing.ids[viewing.index]!;
-  const [author, slug] = BY[id] ?? ["Unknown", ""];
   useEffect(() => root.current?.focus({ preventScroll: true }), []);
   return (
     <div
       ref={root}
       className="tabbar-demo__viewer"
       role="dialog"
-      aria-label={`${tagOf(id)} photo by ${author}`}
+      aria-label={`${tagOf(id)} sample artwork`}
       tabIndex={-1}
       onKeyDown={(event) => {
         if (event.key === "Escape") onClose();
@@ -140,8 +130,8 @@ function PhotoViewer({ viewing, favourite, onFavourite, onMove, onClose }: {
           </button>
         </LiquidGlass>
       </div>
-      <a className="tabbar-demo__credit" href={`https://unsplash.com/photos/${slug}`} target="_blank" rel="noreferrer">
-        Photo by {author}
+      <a className="tabbar-demo__credit" href="https://github.com/vwakesahu/landing-pages/blob/main/ASSETS.md" target="_blank" rel="noreferrer">
+        Original procedural artwork
       </a>
     </div>
   );
@@ -466,7 +456,7 @@ export function ContextMenuPreview() {
 
 export function ContextMenuLinkPreview() {
   const [saved, setSaved] = useState(false);
-  const href = "https://unsplash.com/photos/-oWyJoSqBRM";
+  const href = "https://github.com/vwakesahu/landing-pages/blob/main/ASSETS.md";
   return (
     <div className="link-demo">
       <LiquidContextMenu>
@@ -474,8 +464,8 @@ export function ContextMenuLinkPreview() {
           <a className="link-demo__card" href={href} target="_blank" rel="noreferrer">
             <img src="/photos/wide/1015.webp" alt="" width={960} height={600} />
             <span>
-              <strong>A fjord from the cliff edge</strong>
-              <small>{saved ? "In your Reading List" : "unsplash.com, by Alexey Topolyanskiy"}</small>
+              <strong>A study in colour and light</strong>
+              <small>{saved ? "In your Reading List" : "Original procedural artwork"}</small>
             </span>
           </a>
         </LiquidContextMenuTrigger>
