@@ -1,0 +1,24 @@
+---
+title: Liquid Switch
+description: A Radix Switch with a refractive Liquid Glass tracker you can drag.
+---
+
+<ComponentPreview name="switch" />
+
+## Installation
+
+```npm
+npx shadcn@latest add https://liquidcomponents.xyz/r/liquid-switch.json
+```
+
+## Usage
+
+```tsx
+import { LiquidSwitch } from "@/components/ui/liquid-switch"
+
+export function AutomaticUpdates() {
+  return <LiquidSwitch defaultChecked aria-label="Automatic updates" />
+}
+```
+
+It works controlled or uncontrolled. It toggles from the keyboard, drags with the pointer and submits with a form. It takes a custom tint and comes in three sizes. Disabled means fully non-interactive.

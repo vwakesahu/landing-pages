@@ -1,0 +1,118 @@
+---
+title: Liquid Button
+description: An ordinary button at rest that turns to Liquid Glass while you press it.
+---
+
+<ComponentPreview name="button" />
+
+## Installation
+
+```npm
+npx shadcn@latest add https://liquidcomponents.xyz/r/liquid-button.json
+```
+
+## Usage
+
+```tsx
+import { LiquidButton } from "@/components/ui/liquid-button"
+
+export function ContinueButton() {
+  return <LiquidButton>Continue</LiquidButton>
+}
+```
+
+## Variants
+
+The default is the neutral secondary button. Use `primary` for the emphasized action, it's blue. `destructive` keeps the secondary surface and shows the risk with red text, not a heavy red fill. These all look ordinary at rest on purpose, the expansion, spring, refraction and rim light only show up while you interact with them.
+
+<ComponentPreview name="button-variants" />
+
+```tsx
+<LiquidButton>Default</LiquidButton>
+<LiquidButton variant="primary">Primary</LiquidButton>
+<LiquidButton variant="destructive">Delete</LiquidButton>
+<LiquidButton variant="outline">Outline</LiquidButton>
+<LiquidButton variant="ghost">Ghost</LiquidButton>
+<LiquidButton variant="link">Learn more</LiquidButton>
+```
+
+## Glass
+
+<ComponentPreview name="button-glass" />
+
+`glass` is already glass at rest, it refracts and frosts whatever sits behind it. Pressing grows the whole glass by one uniform factor, so its proportions and corner radius stay intact. Use it over images, video or other rich content.
+
+```tsx
+<LiquidButton variant="glass">Glass</LiquidButton>
+```
+
+## Sizes
+
+<ComponentPreview name="button-sizes" />
+
+```tsx
+<LiquidButton size="small">Small</LiquidButton>
+<LiquidButton size="regular">Regular</LiquidButton>
+<LiquidButton size="large">Large</LiquidButton>
+```
+
+## Success and error
+
+<ComponentPreview name="button-status" />
+
+The button doesn't run your request, keep the async state in your app and pass it in. Each change morphs the capsule's shape, material colour, refraction map, icon and label together.
+
+```tsx
+import { useState } from "react"
+import { LiquidButton, type LiquidButtonStatus } from "@/components/ui/liquid-button"
+
+export function SubmitButton() {
+  const [status, setStatus] = useState<LiquidButtonStatus>("idle")
+
+  async function submit() {
+    setStatus("loading")
+
+    try {
+      await saveChanges()
+      setStatus("success")
+    } catch {
+      setStatus("error")
+    }
+  }
+
+  return (
+    <LiquidButton
+      variant="status"
+      status={status}
+      loadingLabel="Saving…"
+      errorLabel="Try again"
+      successLabel="Saved"
+      onClick={submit}
+    >
+      Submit
+    </LiquidButton>
+  )
+}
+```
+
+With `variant="status"`, `status` takes `idle`, `loading`, `error` or `success`. Error is the secondary surface with red text, success is a filled green surface. Loading springs into a compact control with only a spinner, and `loadingLabel` still reaches assistive technology through a polite status announcement.
+
+Press and hold and one internal tracker grows past the button's layout bounds, which don't change, while its refraction, rim and light come in together. Moving the pointer while you hold moves the highlight, but the capsule itself never moves, drags or stretches with velocity.
+
+Pass `tint`, `errorTint` or `successTint` to change the three semantic colours.
+
+```tsx
+<LiquidButton variant="destructive" errorTint="#dc2626">
+  Delete
+</LiquidButton>
+
+<LiquidButton
+  variant="status"
+  status="success"
+  successTint="#16a34a"
+>
+  Submit
+</LiquidButton>
+```
+
+Every layer has a stable `data-slot`, so you can style it with Tailwind. It's still a native button, keyboard activation, form types, focus, the disabled state, reduced motion and reduced transparency all work the way they normally do. `link` has no button surface and no glass, a short underline is its only click feedback.

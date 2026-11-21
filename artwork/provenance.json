@@ -1,0 +1,15 @@
+{
+  "exequatur-original.png": {
+    "method": "OpenAI built-in image generation",
+    "date": "2026-11-21",
+    "inputImages": [],
+    "prompt": "Create an original abstract background image for an open-source web design template. Landscape 3:2 composition. A sculptural black glass sphere with a delicate lavender rim light, suspended over folded, satin-like plum and charcoal geometric surfaces. Refined editorial 3D render, deep shadows, subtle film grain, physically plausible reflections, sparse composition, strong negative space. No logos, lettering, brand references, watermarks, recognizable artworks, people, or copyrighted characters. This is a newly invented scene, not a recreation of any reference."
+  },
+  "piker-stadium.png": {
+    "method": "OpenAI built-in image generation",
+    "date": "2026-11-21",
+    "inputImages": [],
+    "prompt": "Create a new original cinematic cricket stadium background for a web landing page, widescreen 16:9. Empty modern oval cricket ground at blue hour, luminous floodlights, deep navy sky, emerald outfield, central pitch, distant anonymous crowd suggested as tiny dots with no identifiable people. Low wide view from the boundary, subtle atmospheric haze, clean premium sports editorial photographic feel, dark negative space in upper left for white headline typography. Entirely fictional stadium architecture, not a recognizable real venue. No text, logos, advertising boards, team emblems, uniforms, players, watermarks or brand references.",
+    "usage": "Replacement option for Piker stadium image. Piker is not in the selected collection."
+  }
+}

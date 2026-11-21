@@ -1,0 +1,42 @@
+---
+title: Installation
+description: Add Liquid UI components to a React project with the shadcn CLI.
+---
+
+## Requirements
+
+You need React 19 or a compatible React 18 project, and a `components.json` set up for shadcn/ui. If you don't have one yet, follow the [shadcn/ui installation guide](https://ui.shadcn.com/docs/installation) for your framework, it's one `init` command. Any of npm, pnpm, Yarn or Bun works, use whichever your project already has.
+
+## Install a component
+
+```npm
+npx shadcn@latest add https://liquidcomponents.xyz/r/liquid-switch.json
+```
+
+The CLI copies in the component source, the shared motion hook, the displacement renderer, the utilities and the CSS, and installs the external dependencies. Read the diff and commit it, those files are part of your app now.
+
+This repo uses Bun for development and checks. The components you install don't depend on Bun.
+
+## Install by name
+
+Register the hosted registry once as `@liquid`, so you don't paste the full URL every time.
+
+```npm
+npx shadcn@latest registry add '@liquid=https://liquidcomponents.xyz/r/{name}.json'
+```
+
+After that any component installs by name.
+
+```npm
+npx shadcn@latest add @liquid/liquid-slider
+```
+
+## Styles
+
+There's no CSS setup step. Like any shadcn component, the visual rules are Tailwind utilities in the source you just installed. Pointer position, geometry and refraction values are CSS variables set at runtime, so there's no separate stylesheet or global import to add.
+
+The reduced motion and reduced transparency fallbacks sit next to the layers they change, so they travel with the component.
+
+## Customizing
+
+Use `className`, the stable `data-slot` attributes or the CSS variables to change a component. The registry expects Tailwind set up through shadcn's `components.json`.

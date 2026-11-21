@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Exequatur",
+    "repository": "https://github.com/vwakesahu/exequatur",
+    "commit": "9bcc49c35fd980fb6095ef25a694b4d9ada592df",
+    "originalFrontend": "landing"
+  },
+  {
+    "name": "Unwallet v1",
+    "repository": "https://github.com/vwakesahu/unwallet-landing-page",
+    "commit": "95e133bad3062678bbe45ca073fb54d49c80dff0",
+    "originalFrontend": "."
+  },
+  {
+    "name": "Unwallet v2",
+    "repository": "https://github.com/0xunwallet/landing-page-2.0",
+    "commit": "8d3a3fe4f8d7bf8f70bc2616bf40e3dc2d92cc8e",
+    "originalFrontend": "client"
+  },
+  {
+    "name": "Bidnox",
+    "repository": "https://github.com/Bidnox/monorepo",
+    "commit": "07f466c401ad410c8228c450259f55a0ae1c921c",
+    "originalFrontend": "apps/landing"
+  },
+  {
+    "name": "Shoal",
+    "repository": "https://github.com/shoalfi/monorepo",
+    "commit": "f59d00d8088cc2915ddfe855c458b17eb1a5bb47",
+    "originalFrontend": "web/landing"
+  },
+  {
+    "name": "Skech",
+    "repository": "https://github.com/skech-trade/monorepo",
+    "commit": "727798015a68a9438171520605397283093eaa54",
+    "originalFrontend": "ui/landing"
+  },
+  {
+    "name": "Liquid Components",
+    "repository": "https://github.com/vwakesahu/liquid-components",
+    "commit": "b24a4adc80a974a1802a982987f19652af65c9b8",
+    "originalFrontend": "apps/docs"
+  },
+  {
+    "name": "ErebuZ",
+    "repository": "https://github.com/codeytechie/erebuz-monorepo",
+    "commit": "0cc6ddd809949aef794eea7709c84b2309639983",
+    "originalFrontend": "apps/landing"
+  }
+]

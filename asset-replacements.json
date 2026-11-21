@@ -1,0 +1,1257 @@
+[
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/orb.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/src/app/icon.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/assets/abstract-6.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/assets/abstract-5.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/assets/abstract-1.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/assets/abstract-3.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "exequatur",
+    "path": "sites/exequatur/public/assets/abstract-2.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/app/apple-icon.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/og.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/app-screen/dark-mode.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/app-screen/real-receivable-phone.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/app-screen/light-mode.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/list-invoice.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/working-capital.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/approved-invoice.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/bidder-card.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/bids-leaderboard.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/open-invoices.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/assets/funding-options.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/app/icon.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/app/apple-icon.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/brand/shoal-marks.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo-dark-256.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/cover-16x9.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo-dark-padded.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/cover-1920.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/cover.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/og.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/github-social-preview.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo-dark-512.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/logo-dark-128.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/illustrations/team.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/illustrations/hero-attack.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/illustrations/how-it-works.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/illustrations/hero-shoal.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/team/0xweshall.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/team/vwakesahu.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/team/shubhamtwtt.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/protocols/tectonic.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/protocols/moonwell.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/protocols/morpho.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/src/app/icon.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/founders/abhi.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/logo-mark-ink.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/logo-mark-alpha.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/logo-mark-alpha.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/logo-mark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-redraw.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-steps.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-redraw-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-right-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-example.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/reveal-wide.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-redraw.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-left.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/spot-faq.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/reveal-wide-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-left-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-example-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-faq.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/spot-redraw.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/band-cast.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/spot-example.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-example-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/mobile-hero.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-redraw-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-right.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-steps.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/spot-steps.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-left-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-steps-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-left.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-steps-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-right-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-example.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-faq.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-faq-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/scene-faq-dark.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/cta-scene.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/hero-right.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/social/skech-trade-og.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/fees.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/fees-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/redraw-wide-light.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/practice.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/leverage-v3.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/bitcoin.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/funding-v4.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/leverage-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/rewards.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/redraw-wide-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/ladder.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/rewards-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/ladder-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/markets-v4.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/markets-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/funding-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/bitcoin-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "skech",
+    "path": "sites/skech/public/assets/illo/features/practice-dark.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/og.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/previews/page-switch.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/previews/page-overview.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/previews/page-slider.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/hero/poster.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1050.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1067.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1047.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1084.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/43.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1060.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/13.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/29.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/49.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1036.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1015.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/11.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1080.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1043.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1022.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1018.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/37.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/57.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/16.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1069.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/1053.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/404/404-dark.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/404/404-light.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1050.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1067.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1047.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1084.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/43.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1060.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/13.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/29.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/49.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1036.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1015.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/11.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1080.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1043.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1022.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1018.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/37.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/57.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/16.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1069.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/full/1053.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1050.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/49.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1036.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1015.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1043.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1022.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/1018.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/photos/wide/16.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/og.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/govern.10234282.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/erebuz-logo.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/governance.972e9857.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/staking.dde79d84.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/stake-nam.530ebc61.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/shield-assets.3f5d14f6.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/assets/sdk-code.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/across.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/relay.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/debridge.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chainalaysis.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/zcash.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/railgun.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/starknet.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/stargate.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/TRM.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/monero.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Elliptic.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Request Network.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/EtherFi.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Safe.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Coinbase Pay.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Kast.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Stripe.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/payments/Avici.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/Sushi swap.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/Kyber Network.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/1inch.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/Curve Finance.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/PancakeSwap.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/0x.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/DEX/uniswap.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/1inch wallet.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/Metamask.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/Rabby wallet.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/OKX wallet.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/Base wallet.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/Trust wallet.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/Wallets/coinbase.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/world.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/unichain.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/megaeth.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/mantle.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/linea.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/hyperliquid.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/fuel.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/sei.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/polygon.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/ethereum.webp",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/arbitrum.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/optimism.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/base.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/manta.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/protocols/chains/gnosis.jpg",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/OSMO.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/stOSMO.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/USDC.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/ATOM.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/NTRN.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/stATOM.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/stTIA.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/UM.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/NYM.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/content/start/assets/images/TIA.png",
+    "action": "replace-with-original-procedural-art"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/partners/thegraph.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "shoal",
+    "path": "sites/shoal/public/partners/uniswap.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/app/icon.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/avatars/maya.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/avatars/ana.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "liquid",
+    "path": "sites/liquid/public/avatars/leo.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/src/app/icon.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/01.7ab2b8b3.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/09.1745f638.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/about-arrow.73b05514.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/03.2fb472cf.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/01.5f246987.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/07.b4a15b23.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/06.e278713a.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/10.08290816.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/erebuz-logo.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/05.1c2614d4.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/08.b4bafdb7.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/04.c83cccfe.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/02.aba28c35.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/11.4cc2339e.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/01.16ff591b.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/02.c18ac064.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/images/scroll-to-explore.4dd94753.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "erebuz",
+    "path": "sites/erebuz/public/assets/bg-dots.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/app/icon.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/logo.svg",
+    "action": "replace-with-neutral-label"
+  },
+  {
+    "site": "bidnox",
+    "path": "sites/bidnox/public/logo-mono.svg",
+    "action": "replace-with-neutral-label"
+  }
+]

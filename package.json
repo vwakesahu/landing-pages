@@ -1,0 +1,15 @@
+{
+  "name": "vivek-landing-pages",
+  "private": true,
+  "workspaces": [
+    "sites/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "bun run --cwd sites/unwallet-v1 dev",
+    "check:assets": "bun scripts/check-assets.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  }
+}

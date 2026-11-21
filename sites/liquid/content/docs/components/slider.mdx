@@ -1,0 +1,45 @@
+---
+title: Liquid Slider
+description: A Radix Slider with a refractive tracker, spring deformation and a fill that stays in sync.
+---
+
+<ComponentPreview name="slider" />
+
+## Installation
+
+```npm
+npx shadcn@latest add https://liquidcomponents.xyz/r/liquid-slider.json
+```
+
+## Usage
+
+```tsx
+import { LiquidSlider } from "@/components/ui/liquid-slider"
+
+export function Volume() {
+  return <LiquidSlider defaultValue={[64]} aria-label="Volume" />
+}
+```
+
+The rail is the real Radix Range. While you drag, the tracker turns to clear glass and the slider refracts that same rail in place, so the fill bends into the glass rim while its edge stays on the selected value. There's no copy to keep in sync.
+
+## Tracker size
+
+<ComponentPreview name="slider-sizes" />
+
+Pick a preset or set the tracker geometry in pixels. Custom geometry keeps the same material and motion as the Switch, and the same live progress refraction and endpoint calculations.
+
+```tsx
+<LiquidSlider size="small" defaultValue={[36]} />
+<LiquidSlider size="regular" defaultValue={[52]} />
+<LiquidSlider size="large" defaultValue={[68]} />
+
+<LiquidSlider
+  trackerSize={{
+    width: 58,
+    height: 34,
+    trackHeight: 9,
+  }}
+  defaultValue={[44]}
+/>
+```
